@@ -1,0 +1,7 @@
+,,rougeL,rougeL,emb_sim,emb_sim
+,,mean,count,mean,count
+condition,gold_in_ctx,,,,
+B2_rag_chosen_search,False,0.25528504433599536,6,0.7694246,6
+B2_rag_chosen_search,True,0.4510646056979281,44,0.8572908,44
+D2_finetuned_rag_chosen_search,False,0.4069772524167306,6,0.8771231,6
+D2_finetuned_rag_chosen_search,True,0.555100179843496,44,0.9353087,44

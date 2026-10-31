@@ -1,0 +1,3 @@
+,decline_when_no_answer (want high),decline_when_answerable (want low)
+B2 (base + RAG),0.43333333333333335,0.1
+D2 (fine-tuned + RAG),0.0,0.02
