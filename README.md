@@ -1,6 +1,6 @@
 # Australian Legal Q&A: Fine-tuning vs RAG
 
-CP5403 Assignment 2. This project compares retrieval-augmented generation (RAG) and LoRA fine-tuning for answering Australian legal questions with a small model, `google/gemma-3-1b-it`.
+ This project compares retrieval-augmented generation (RAG) and LoRA fine-tuning for answering Australian legal questions with a small model, `google/gemma-3-1b-it`.
 
 ## Conditions compared
 
