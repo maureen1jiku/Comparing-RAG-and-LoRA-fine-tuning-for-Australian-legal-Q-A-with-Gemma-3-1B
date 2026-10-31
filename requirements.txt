@@ -1,0 +1,11 @@
+transformers
+peft
+datasets
+sentence-transformers
+rank_bm25
+rouge_score
+accelerate
+torch
+pandas
+numpy
+huggingface_hub
